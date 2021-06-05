@@ -1,5 +1,7 @@
 # ForLazyPeople
 Lazy People can download a built chiapos with improvements from pechy
+
+
 Just download the .pdy file and copy it into %USERPROFILE%\AppData\Local\chia-blockchain\app-1.1.6\resources\app.asar.unpacked\daemon replacing the original pdy
 
 
